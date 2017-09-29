@@ -9,7 +9,7 @@
 6. [Урок №7](https://castezar.github.io/lesson_7/index.html "Урок №7 верстка первого макета вручную") - Верстка первого макета вручную  
 7. [Урок №8](https://castezar.github.io/lesson_8/index.html "Урок №8 ускорение верстки") - Ускорение верстки   
 8. [Урок №9](https://castezar.github.io/lesson_9/index.html "Урок №9 верстка на Bootstrap") - Верстка сприменением фреймворка Bootstrap    
-9. [Урок №10](/lesson_10/ "Урок №10 препроцессоры LESS и SASS ") - Препроцессоры LESS и SASS
+9. [Урок №10](/lesson_10/ "Урок №10 препроцессоры LESS и SASS ") - Препроцессоры LESS и SASS  
 10.[Урок №11](/lesson_11/ "Урок №11 сниппеты") - Сниппеты
 11.[Урок №12](/lesson_12/ "Урок №12 работа с GITHUB") - работа с GITHUB
 
