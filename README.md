@@ -11,5 +11,6 @@
 8. [Урок №9](https://castezar.github.io/lesson_9/index.html "Урок №9 верстка на Bootstrap") - Верстка сприменением фреймворка Bootstrap    
 9. [Урок №10](/lesson_10/ "Урок №10 препроцессоры LESS и SASS ") - Препроцессоры LESS и SASS  
 10. [Урок №11](/lesson_11/ "Урок №11 сниппеты") - Сниппеты  
-11. [Урок №12](/lesson_12/ "Урок №12 работа с GITHUB") - работа с GITHUB
+11. [Урок №12](/lesson_12/ "Урок №12 работа с GITHUB") - Работа с GITHUB  
+13. [Урок №13](https://castezar.github.io/lesson_13/index.html "Урок №13 Адаптивая верстка") - Адаптивная верстка
 
