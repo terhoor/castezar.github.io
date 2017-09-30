@@ -1,0 +1,75 @@
+.container {
+    border: 1px solid grey;
+    width: 570px;
+    height: 570px;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    background: #e4f0f0;
+}
+
+.container .section {
+    width: 317px;
+    height: 367px;
+    background: #fff;
+    margin: 98px auto;
+}
+
+.container form {
+    display: inline-block;
+    text-align: center;
+}
+
+.container form .form {
+    margin-top: 30px;
+}
+
+.container h1 {
+    font-family: arial;
+    width: 150px;
+    height: 25px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 0, 7px;
+    background-color: #01b3b3;
+    line-height: 2;
+    margin-top: -4px;
+}
+
+.btn {
+    background-color: #01bebe;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 36px;
+    height: 45px;
+    width: 260px;
+}
+
+.avast-pam-pass_gen {
+    visibility: hidden!important;
+}
+
+.form-group {
+    display: table;
+    height: 45px;
+    width: 260px;
+}
+
+.form-group label {
+    margin-bottom: 10px;
+}
+
+.form-group input {
+    width: 261px;
+    height: 32px;
+    background-color: #ebf4f4;
+    font-style: italic;
+    font-size: 11px;
+}
+
+img {
+    display: inline-block;
+    vertical-align: top;
+}
