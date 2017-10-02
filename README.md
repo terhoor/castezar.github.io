@@ -5,7 +5,7 @@
 2. [Урок №3](/lesson_3/ "Урок №3 настройка рабочего пространства") - Настройка рабочего пространства  
 3. [Урок №4](https://castezar.github.io/lesson_4/index.html "Урок №4 основы HTML") - Основы HTML  
 4. [Урок №5](https://castezar.github.io/lesson_5/index.html "Урок №5 основы CSS") - Основы CSS  
-5. [Урок №6.1](https://castezar.github.io/lesson_6/index.html "Урок №6 позиционирование в CSS") и [Урок №6.2](castezar.github.io/lesson_6_1/index.html "Урок №6.2 позиционирование в CSS") - Позиционирование в CSS  
+5. [Урок №6.1](https://castezar.github.io/lesson_6/index.html "Урок №6 позиционирование в CSS") и [Урок №6.2](https://castezar.github.io/lesson_6_1/index.html "Урок №6.2 позиционирование в CSS") - Позиционирование в CSS  
 6. [Урок №7](https://castezar.github.io/lesson_7/index.html "Урок №7 верстка первого макета вручную") - Верстка первого макета вручную  
 7. [Урок №8](https://castezar.github.io/lesson_8/index.html "Урок №8 ускорение верстки") - Ускорение верстки   
 8. [Урок №9](https://castezar.github.io/lesson_9/index.html "Урок №9 верстка на Bootstrap") - Верстка сприменением фреймворка Bootstrap    
