@@ -13,5 +13,6 @@
 10. [Урок №11](/lesson_11/ "Урок №11 сниппеты") - Сниппеты  
 11. [Урок №12](/lesson_12/ "Урок №12 работа с GITHUB") - Работа с GITHUB  
 13. [Урок №13](https://castezar.github.io/lesson_13/index.html "Урок №13 Адаптивая верстка") - Адаптивная верстка  
-14. [Модуль №5](https://castezar.github.io/modul_5_1/index.html "Модуль №5 Практика") - Модуль №5. Практика. Часть 1
+14. [Модуль №5](https://castezar.github.io/modul_5_1/index.html "Модуль №5 Практика") - Модуль №5. Практика. Часть 1  
+15. [Урок №14](https://castezar.github.io/lesson_14/index.html "Урок №14 шрифты") - Урок №14 шрифты
 
