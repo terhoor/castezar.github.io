@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('http://allfont.ru/allfont.css?fonts=bebas');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic');
+
+.text-box{
+	padding-top: 2rem;
+}
+.resаult {
+	margin-bottom: 0;
+	margin-top: 3rem;
+  }
+.open{
+font-family: 'Open Sans', sans-serif;
+}
+      
+ .bebas{
+font-family: 'Bebas', arial;
+  }
+  .lato{
+font-family: 'Lato', sans-serif;
+  }
+.lobster{
+font-family: 'Lobster', cursive;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
