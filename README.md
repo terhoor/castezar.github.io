@@ -15,5 +15,6 @@
 13. [Урок №13](https://castezar.github.io/lesson_13/index.html "Урок №13 Адаптивая верстка") - Адаптивная верстка  
 14. [Модуль №5_1](https://castezar.github.io/modul_5_1/index.html "Модуль №5 Практика") - Модуль №5. Практика. Часть 1  
 15. [Урок №14](https://castezar.github.io/lesson_14/index.html "Урок №14 шрифты") - Урок №14 шрифты
-16. [Модуль №5_2](https://castezar.github.io/modul_5_2/index.html "Модуль №5 Практика. Часть 2.") - Модуль №5. Практика. Часть 2
+16. [Модуль №5_2](https://castezar.github.io/modul_5_2/index.html "Модуль №5 Практика. Часть 2.") - Модуль №5. Практика. Часть 2  
+15. [Урок №15](https://castezar.github.io/lesson_15/index.html "Урок №5 Псевдоклассы и пседовэлементы") - Урок №5 Псевдоклассы и пседовэлементы
 
