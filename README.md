@@ -19,3 +19,4 @@
 17. [Урок №15](https://castezar.github.io/lesson_15/index.html "Урок №15 Псевдоклассы и пседовэлементы") - Урок №5 Псевдоклассы и пседовэлементы  
 18. [Модуль №5_3](https://castezar.github.io/modul_5_3/index.html "Модуль №5 Практика. Часть 3.") - Модуль №5. Практика. Часть 3
 19. [Урок №16](https://castezar.github.io/lesson_16/index.html "Урок №16 слайдеры") - Урок №16 Слайдеры.  
+20. [Модуль №5_4](https://castezar.github.io/modul_5_4/index.html "Модуль №5 Практика. Часть 4.") - Модуль №5. Практика. Часть 4
